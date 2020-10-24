@@ -1,0 +1,17 @@
+body{
+    background-color: lightcyan;
+}
+h3{
+    margin-top: 1cm;
+    text-align: center;
+    color: green;
+    background-color: lightyellow;
+}
+.form{
+    width: 400px;
+    padding: 10px;
+    margin: auto;
+    background-color: #acaecc;
+    border: 1px solid black;
+    margin-top: 1cm;
+}
